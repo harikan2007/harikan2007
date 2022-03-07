@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harikan2007
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in JS frameworks
+- 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on related fields
 - 📫 How to reach me harikan2007@gmail.com
 
